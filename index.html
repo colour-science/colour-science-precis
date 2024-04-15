@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description"
+          content="Colour Science Precis for the CGI Artist">
+    <meta name="keywords"
+          content="color,colorspace,color-spaces,colour,colourspace,colour-spaces,color-science,colour-science,posters,precis">
+    <meta name="author" content="Colour Developers">
+    <title>Colour Science Precis for the CGI Artist</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.11.6/viewer.css"
+          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700,900"
+          rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #111;
+            color: #E5E5E5;
+            font-family: "Poppins", sans-serif;
+        }
+
+        h1 {
+            font-weight: lighter;
+            text-align: center;
+        }
+
+        a {
+            color: #E5E5E5;
+        }
+
+        .gallery {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+
+        .photo img {
+            padding: 0px;
+            width: 447px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+<h1>Colour Science Precis for the CGI Artist</h1>
+<div class="gallery" id="images">
+    <div class="photo">
+        <img
+                data-original="posters/Colour%20Science%20-%20Precis%20-%20Page%201.png"
+                src="posters/Colour%20Science%20-%20Precis%20-%20Page%201%20-%20Thumbnail.jpg"
+                alt="Picture 1">
+    </div>
+    <div class="photo">
+        <img
+                data-original="posters/Colour%20Science%20-%20Precis%20-%20Page%202.png"
+                src="posters/Colour%20Science%20-%20Precis%20-%20Page%202%20-%20Thumbnail.jpg"
+                alt="Picture 2">
+    </div>
+    <div class="photo">
+        <img
+                data-original="posters/Colour%20Science%20-%20Precis%20-%20Page%203.png"
+                src="posters/Colour%20Science%20-%20Precis%20-%20Page%203%20-%20Thumbnail.jpg"
+                alt="Picture 3">
+    </div>
+</div>
+
+<p style="text-align: center;">v0.9 - <a
+        href="https://www.colour-science.org">colour-science.org</a>
+    - April 2024 - CC BY-SA 4.0 - <a
+            href="https://github.com/colour-science/colour-science-precis">Github</a>
+</p>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.11.6/viewer.min.js"></script>
+<script>
+    const gallery = new Viewer(document.getElementById('images'), {
+        url: "data-original",
+        toolbar: {
+            zoomIn: 4,
+            zoomOut: 4,
+            oneToOne: 4,
+            reset: 4,
+            prev: 4,
+            play: {
+                show: 4,
+                size: 'large',
+            },
+            next: 4,
+            rotateLeft: 0,
+            rotateRight: 0,
+            flipHorizontal: 0,
+            flipVertical: 0,
+        },
+    });
+</script>
+</html>
