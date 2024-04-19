@@ -1,4 +1,4 @@
-# Colour Science Precis for the CGI Artist
+# [Colour Science Precis for the CGI Artist](https://colour-science.github.io/colour-science-precis/)
 
 The **Colour Science Precis** is a set of posters designed for the computer-generated imagery artist.
 
@@ -15,7 +15,7 @@ Colour science is a constant evolving field of research: We do not yet have a fu
 
 ## Source
 
-A copy of the [Figma](https://www.figma.com) file is available in [Colour Science Precis](figma/Colour%20Science%20-%20Precis.fig)
+A copy of the [Figma](https://www.figma.com) file is available in [Colour Science Precis](figma/Colour%20Science%20-%20Precis.fig).
 
 Many of the figures were authored using [Colour](https://github.com/colour-science/colour) and [Google Colab](https://colab.research.google.com/drive/1C1glP3WxP1flByylNUTTJ24tcDhm9jFW).
 
