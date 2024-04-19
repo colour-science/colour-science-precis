@@ -159,6 +159,9 @@ The *Colour Developers* can be reached via different means:
 ## About
 
 **Colour Science Precis** by Colour Developers
+
 Copyright 2024 Colour Developers -- [colour-developers@colour-science.org](colour-developers@colour-science.org)
+
 This content is released under terms of CC BY-SA 4.0: <https://creativecommons.org/licenses/by-sa/4.0/>
-<https://github.com/colour-science/colour-science-precis>
+
+https://github.com/colour-science/colour-science-precis
