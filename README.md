@@ -13,6 +13,8 @@ Colour science is a constant evolving field of research: We do not yet have a fu
 ![Colour Science Precis - Page 2](posters/Colour%20Science%20Precis%20-%20Page%202.png)
 ![Colour Science Precis - Page 3](posters/Colour%20Science%20Precis%20-%20Page%203.png)
 
+PDF versions are also available alongside in the [posters](posters/) directory.
+
 ## Source
 
 A copy of the [Figma](https://www.figma.com) file is available in [Colour Science Precis](figma/Colour%20Science%20-%20Precis.fig).
