@@ -29,12 +29,14 @@ We would like to thank all the following contributors to the authoring and revie
 
 - Alex Forsythe
 - Daniele Siragusano
+- Joseph Goldstone
 - Kevin Whitfield
 - Kris Murray
 - Nick Shaw
 - Remi Achard
 - Sean Cooper
 - Tim Kang
+- @MikeMmmm
 
 ### Cinematic Color 2 Editing
 
