@@ -36,6 +36,7 @@ We would like to thank all the following contributors to the authoring and revie
 - Remi Achard
 - Sean Cooper
 - Tim Kang
+- Vlad Simion
 - @MikeMmmm
 
 ### Cinematic Color 2 Editing
