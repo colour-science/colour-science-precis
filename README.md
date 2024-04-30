@@ -28,12 +28,14 @@ We would like to thank all the following contributors to the authoring and revie
 ### Precis Review
 
 - Alex Forsythe
+- Cuneyt Ozdas
 - Daniele Siragusano
 - Joseph Goldstone
 - Kevin Whitfield
 - Kris Murray
 - Nick Shaw
 - Remi Achard
+- Rod Bogart
 - Sean Cooper
 - Tim Kang
 - Vlad Simion
